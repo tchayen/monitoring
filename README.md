@@ -9,7 +9,7 @@ and storing the data (for now) using Graphite and Carbon.
 - `ssh` there
 - paste content of `install.sh`
 - save as some `file`
-- chmod +x `file`
+- `chmod +x file`
 - `./file`
 - ...?
 
